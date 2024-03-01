@@ -1,0 +1,23 @@
+.container{
+    width: 500px; 
+    background-color: rgb(255, 240, 215); 
+    border: 3px solid black; 
+    border-radius: 25px; 
+    margin: 10px;
+}
+.conteudoTexto{
+    font-family: monospace;
+}
+
+.imagem{
+    width: 100px; 
+    height: 100px;
+}
+img{
+    width: 100%; 
+    height: 100%; 
+    border-radius: 90px
+}
+span{
+    font-style: italic;
+}
